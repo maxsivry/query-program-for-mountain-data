@@ -1,0 +1,409 @@
+[
+ {
+   "uuid": "24fe2a5a-50cc-11ee-be56-0242ac120002",
+   "Location": "utah",
+   "Resort": "Alta",
+   "Summit": 11068,
+   "Snowfall": 547,
+   "Popular Trails": [
+    {
+      "name": "Roller Coaster",
+      "difficulty": "Intermediate",
+      "type": "Groomer"
+    },
+    {
+      "name": "Westward Ho",
+      "difficulty": "Advanced",
+      "type": "Glades"
+    },
+    {
+        "name": "Baldy Chutes",
+        "difficulty": "Expert",
+        "type": "Chute"
+    },
+    {
+        "name": "Extrovert",
+        "difficulty": "Advanced",
+        "type": "Groomer"
+    }
+  ]
+
+ },
+ {
+  "uuid": "24fe2d20-50cc-11ee-be56-0242ac120002",
+   "Location": "colorado",
+   "Resort": "Arapahoe Basin",
+   "Summit": 13050,
+   "Snowfall": 350
+ },
+ {
+  "uuid": "24fe3496-50cc-11ee-be56-0242ac120002",
+   "Location": "colorado",
+   "Resort": "Aspen Snowmass",
+   "Summit": 12510,
+   "Snowfall": 300
+ },
+ {
+  "uuid": "24fe37ac-50cc-11ee-be56-0242ac120002",
+   "Location": "california",
+   "Resort": "Bear Mountain",
+   "Summit": 8805,
+   "Snowfall": 100
+ },
+ {
+  "uuid": "24fe38d8-50cc-11ee-be56-0242ac120002",
+   "Location": "montana",
+   "Resort": "Big Sky",
+   "Summit": 11166,
+   "Snowfall": 400,
+   "Popular Trails": [
+    {
+      "name": "Mr. K",
+      "difficulty": "Beginner",
+      "type": "Groomer"
+    },
+    {
+      "name": "Liberty Bowl",
+      "difficulty": "Expert",
+      "type": "Bowl"
+    },
+    {
+        "name": "Big Tree Cutoff",
+        "difficulty": "Intermediate",
+        "type": "Glades"
+    }
+  ]
+ },
+ {
+  "uuid": "24fe39fa-50cc-11ee-be56-0242ac120002",
+   "Location": "ontario",
+   "Resort": "Blue Mountain",
+   "Summit": 1476
+ },
+ {
+  "uuid": "24fe3b08-50cc-11ee-be56-0242ac120002",
+   "Location": "michigan",
+   "Resort": "Boyne Mountain",
+   "Summit": 1120,
+   "Snowfall": 140
+ },
+ {
+  "uuid": "24fe3e6e-50cc-11ee-be56-0242ac120002",
+   "Location": "utah",
+   "Resort": "Brighton",
+   "Summit": 10500,
+   "Snowfall": 500
+ },
+ {
+  "uuid": "24fe3fa4-50cc-11ee-be56-0242ac120002",
+   "Location": "colorado",
+   "Resort": "Copper Mountain",
+   "Summit": 12313,
+   "Snowfall": 300
+ },
+ {
+  "uuid": "24fe40d0-50cc-11ee-be56-0242ac120002",
+   "Location": "washington",
+   "Resort": "Crystal Mountain",
+   "Summit": 7012,
+   "Snowfall": 486
+ },
+ {
+  "uuid": "24fe41e8-50cc-11ee-be56-0242ac120002",
+   "Location": "british-columbia",
+   "Resort": "Cypress Mountain",
+   "Summit": 4751,
+   "Snowfall": 426
+ },
+ {
+  "uuid": "24fe456c-50cc-11ee-be56-0242ac120002",
+   "Location": "utah",
+   "Resort": "Deer Valley",
+   "Summit": 9570,
+   "Snowfall": 300
+ },
+ {
+  "uuid": "24fe46a2-50cc-11ee-be56-0242ac120002",
+   "Location": "colorado",
+   "Resort": "Eldora",
+   "Summit": 10600,
+   "Snowfall": 311
+ },
+ {
+  "uuid": "24fe47ce-50cc-11ee-be56-0242ac120002",
+   "Location": "wyoming",
+   "Resort": "Jkson Hole",
+   "Summit": 10450,
+   "Snowfall": 459
+ },
+ {
+  "uuid": "24fe492c-50cc-11ee-be56-0242ac120002",
+   "Location": "california",
+   "Resort": "June Mountain",
+   "Summit": 10090
+ },
+ {
+  "uuid": "24fe4b84-50cc-11ee-be56-0242ac120002",
+   "Location": "vermont",
+   "Resort": "Killington",
+   "Summit": 4241,
+   "Snowfall": 250,
+   "Popular Trails": [
+    {
+      "name": "Cascade",
+      "difficulty": "Expert",
+      "type": "Glades"
+    },
+    {
+      "name": "Anarchy",
+      "difficulty": "Advanced",
+      "type": "Glades"
+    },
+    {
+        "name": "Bunny Buster",
+        "difficulty": "Intermediate",
+        "type": "Groomer"
+    },
+    {
+        "name": "Bear Cub",
+        "difficulty": "Beginner",
+        "type": "Groomer"
+    }
+  ]
+ },
+ {
+  "uuid": "24fe4ca6-50cc-11ee-be56-0242ac120002",
+   "Location": "alberta",
+   "Resort": "Lake Louise",
+   "Summit": 8652
+ },
+ {
+  "uuid": "24fe5066-50cc-11ee-be56-0242ac120002",
+   "Location": "new-hampshire",
+   "Resort": "Loon Mountain",
+   "Summit": 3050,
+   "Snowfall": 160
+ },
+ {
+  "uuid": "24fe5200-50cc-11ee-be56-0242ac120002",
+   "Location": "california",
+   "Resort": "Mammoth",
+   "Summit": 11053,
+   "Snowfall": 400
+ },
+ {
+  "uuid": "24fe5426-50cc-11ee-be56-0242ac120002",
+   "Location": "oregon",
+   "Resort": "Mt. Bachelor",
+   "Summit": 9065,
+   "Snowfall": 462
+ },
+ {
+  "uuid": "24fe552a-50cc-11ee-be56-0242ac120002",
+   "Location": "alberta",
+   "Resort": "Mt. Norquay",
+   "Summit": 8038
+ },
+ {
+  "uuid": "24fe5642-50cc-11ee-be56-0242ac120002",
+   "Location": "california",
+   "Resort": "Palisades Tahoe",
+   "Summit": 9050,
+   "Snowfall": 450,
+   "Popular Trails": [
+    {
+      "name": "Ridge Run",
+      "difficulty": "Intermediate",
+      "type": "Groomer"
+    },
+    {
+      "name": "The Wall",
+      "difficulty": "Expert",
+      "type": "Chute"
+    },
+    {
+        "name": "Sugar n' Spice",
+        "difficulty": "Beginner",
+        "type": "Groomer"
+    },
+    {
+        "name": "Powderhorn",
+        "difficulty": "Intermediate",
+        "type": "Groomer"
+    },
+    {
+        "name": "Gunbarrel",
+        "difficulty": "Expert",
+        "type": "Bumps"
+    }
+  ]
+ },
+ {
+  "uuid": "24fe5804-50cc-11ee-be56-0242ac120002",
+   "Location": "british-columbia",
+   "Resort": "Revelstoke",
+   "Summit": 7300,
+   "Snowfall": 413
+ },
+ {
+  "uuid": "24fe59b2-50cc-11ee-be56-0242ac120002",
+   "Location": "california",
+   "Resort": "Snow Summit",
+   "Summit": 8200
+ },
+ {
+  "uuid": "24fe5cfa-50cc-11ee-be56-0242ac120002",
+   "Location": "utah",
+   "Resort": "Snowbasin",
+   "Summit": 9350,
+   "Snowfall": 300
+ },
+ {
+  "uuid": "24fe5e4e-50cc-11ee-be56-0242ac120002",
+   "Location": "utah",
+   "Resort": "Snowbird",
+   "Summit": 11000,
+   "Snowfall": 500
+ },
+ {
+  "uuid": "24fe5f5c-50cc-11ee-be56-0242ac120002",
+   "Location": "utah",
+   "Resort": "Solitude",
+   "Summit": 10488,
+   "Snowfall": 500
+ },
+ {
+  "uuid": "24fe607e-50cc-11ee-be56-0242ac120002",
+   "Location": "colorado",
+   "Resort": "Steamboat",
+   "Summit": 10568,
+   "Snowfall": 336
+ },
+ {
+  "uuid": "24fe6326-50cc-11ee-be56-0242ac120002",
+   "Location": "vermont",
+   "Resort": "Stratton",
+   "Summit": 3875,
+   "Snowfall": 180
+ },
+ {
+  "uuid": "24fe6448-50cc-11ee-be56-0242ac120002",
+   "Location": "vermont",
+   "Resort": "Sugarbush",
+   "Summit": 4083,
+   "Snowfall": 250
+ },
+ {
+  "uuid": "24fe656a-50cc-11ee-be56-0242ac120002",
+   "Location": "maine",
+   "Resort": "Sugarloaf",
+   "Summit": 4237,
+   "Snowfall": 200,
+   "Popular Trails": [
+    {
+      "name": "Sluice",
+      "difficulty": "Intermediate",
+      "type": "Groomer"
+    },
+    {
+      "name": "Timberline",
+      "difficulty": "Beginner",
+      "type": "Groomer"
+    },
+    {
+        "name": "Bracket Basin",
+        "difficulty": "Expert",
+        "type": "Glades"
+    },
+    {
+        "name": "Side Winder",
+        "difficulty": "Advanced",
+        "type": "Glades"
+    }
+  ]
+ },
+ {
+  "uuid": "24fe666e-50cc-11ee-be56-0242ac120002",
+   "Location": "idaho",
+   "Resort": "Sun Valley",
+   "Summit": 9150,
+   "Snowfall": 220
+ },
+ {
+  "uuid": "24fe677c-50cc-11ee-be56-0242ac120002",
+   "Location": "maine",
+   "Resort": "Sunday River",
+   "Summit": 3140,
+   "Snowfall": 167
+ },
+ {
+  "uuid": "24fe6894-50cc-11ee-be56-0242ac120002",
+   "Location": "alberta",
+   "Resort": "Sunshine Village",
+   "Summit": 8957,
+   "Snowfall": 360
+ },
+ {
+  "uuid": "24fe6c68-50cc-11ee-be56-0242ac120002",
+   "Location": "new-mexico",
+   "Resort": "Taos",
+   "Summit": 12481,
+   "Snowfall": 300
+ },
+ {
+  "uuid": "24fe6d94-50cc-11ee-be56-0242ac120002",
+   "Location": "quebec",
+   "Resort": "Tremblant",
+   "Summit": 2871,
+   "Snowfall": 178
+ },
+ {
+  "uuid": "24fe6f06-50cc-11ee-be56-0242ac120002",
+   "Location": "colorado",
+   "Resort": "Winter Park",
+   "Summit": 12060,
+   "Snowfall": 360,
+   "Popular Trails": [
+    {
+      "name": "Runaway",
+      "difficulty": "Advanced",
+      "type": "Chute"
+    },
+    {
+      "name": "Boiler",
+      "difficulty": "Advanced",
+      "type": "Bumps"
+    },
+    {
+        "name": "Sleeper",
+        "difficulty": "Intermediate",
+        "type": "Groomer"
+    }
+  ]
+ },
+ {
+  "uuid": "24fe7032-50cc-11ee-be56-0242ac120002",
+   "Location": "washington",
+   "Resort": "Summit at Snoqualmie",
+   "Summit": 3865,
+   "Snowfall": 428
+ },
+ {
+  "uuid": "24fe7140-50cc-11ee-be56-0242ac120002",
+   "Location": "west-virginia",
+   "Resort": "Snowshoe",
+   "Summit": 4848
+ },
+ {
+  "uuid": "24fe7456-50cc-11ee-be56-0242ac120002",
+   "Location": "michigan",
+   "Resort": "The Highlands",
+   "Summit": 1290
+ },
+ {
+  "uuid": "24fe75c8-50cc-11ee-be56-0242ac120002",
+   "Location": "new-york",
+   "Resort": "Windham Mountain",
+   "Summit": 3100
+ }
+]
